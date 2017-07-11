@@ -3,4 +3,4 @@ theme: jekyll-theme-architect
 title: 我不开心
 description: I am not happy
 
-show_downloads: true
+show_downloads: false
