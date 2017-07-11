@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 应用简介
 
-You can use the [editor on GitHub](https://github.com/ghysrc/NotHappyPages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你有故事，却无人倾听；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你有眼泪，却无人知晓；
 
-### Markdown
+这世界茫茫，却无处可归；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+从今天开始，有这样一个地方，给你温暖，又给你自由。
 
-```markdown
-Syntax highlighted code block
+我不开心开启温暖社交新时代，和世界上另一个“你”相遇，赶走小确丧！
 
-# Header 1
-## Header 2
-### Header 3
+简单，温暖，真实的社交平台。
 
-- Bulleted
-- List
+原来你非不快乐。
 
-1. Numbered
-2. List
+### 应用特色
 
-**Bold** and _Italic_ and `Code` text
+【简单】 操作简单，一键倾诉所有心中的苦闷
 
-[Link](url) and ![Image](src)
-```
+【温暖】 远离键盘侠，网友其实也没那么坏
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+【安全】 只要你想，没人知道你是谁
 
-### Jekyll Themes
+### 应用截图
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ghysrc/NotHappyPages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![img](https://ws1.sinaimg.cn/large/006tKfTcly1fhfrbhu5duj30hs0vmjyz.jpg)
 
-### Support or Contact
+![img](https://ws3.sinaimg.cn/large/006tKfTcly1fhfrbpta3dj30hs0vm415.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![img](https://ws3.sinaimg.cn/large/006tKfTcly1fhfrbwavb8j30hs0vmady.jpg)
